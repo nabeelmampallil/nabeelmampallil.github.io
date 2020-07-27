@@ -1,0 +1,40 @@
+.header{
+    width: 100%;
+    background: aqua;
+height: 150px;
+
+}
+.left-section{
+    width: 20%;
+    float: left;
+    height: 400px;
+    background: rgb(238, 255, 0);
+}
+.right-section{ 
+    width:80%;
+    float: left;
+    height:400px;
+    background: rgb(255, 3, 3);
+}
+.footer{
+    
+    height: 150px;
+    width: 100%;
+    background: rgb(0, 255, 0);
+}
+.content{
+    height: 400px;
+}
+body{
+    margin: 0;
+}
+#p{
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 5px solid rgb(221, 111, 221);
+    padding: 20px;
+    
+
+}
+
+    
